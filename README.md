@@ -1,2 +1,8 @@
-# 0800-bk.python
-Programming in Python. Institute of Physics, Nicolaus Copernicus University (Summer 25/26). 
+### Programming in Python
+
+Ongoing course at the Institute of Physics, Nicolaus Copernicus University
+(Summer 25/26).
+
+Classes:
+
+1. Introduction and basics - Feb 22 2026.
